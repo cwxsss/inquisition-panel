@@ -638,10 +638,11 @@ export function UserAddDialog({ open, onOpenChange, onSave }: UserAddDialogProps
                           <SelectValue />
                         </SelectTrigger>
                         <SelectContent>
-                          <SelectItem value="1">肉鸽1</SelectItem>
-                          <SelectItem value="2">肉鸽2</SelectItem>
-                          <SelectItem value="3">肉鸽3</SelectItem>
-                          <SelectItem value="4">肉鸽4</SelectItem>
+                          <SelectItem value="1">傀影</SelectItem>
+                          <SelectItem value="2">水月</SelectItem>
+                          <SelectItem value="3">萨米</SelectItem>
+                          <SelectItem value="4">萨卡兹</SelectItem>
+                          <SelectItem value="5">界园</SelectItem>
                         </SelectContent>
                       </Select>
                     </div>
